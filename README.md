@@ -40,7 +40,8 @@ Major Device Class : Computer (0x100)
 When the attacker forces the devices to use Just Works assocication model by beging present from the beginning of the SSP process or by jamming the whole Bluetooth band.
 Possible to push the controller into that method?. 
 
-
+####Funded by:
+Centerlink..hopefully.
 
 
 
